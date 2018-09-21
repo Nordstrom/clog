@@ -1,0 +1,2 @@
+# clog
+Consistent Logging
